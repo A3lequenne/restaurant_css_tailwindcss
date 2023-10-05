@@ -1,1 +1,11 @@
-# restaurant_css_tailwindcss
+# Indian restaurant using Tailwindcss
+
+## Welcome
+
+## Menu
+
+## Pictures
+
+## Restaurant
+
+## Contact
