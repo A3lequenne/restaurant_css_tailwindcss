@@ -1,3 +1,14 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+
+#welcome_chicken_tikkamasala {
+    height: auto;
+    width: 150px;
+}
+
+#welcome_tandoori {
+    height: auto;
+    width: 200px;
+}
