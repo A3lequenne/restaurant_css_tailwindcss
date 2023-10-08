@@ -12,3 +12,14 @@
     height: auto;
     width: 200px;
 }
+
+.little_dots {
+    list-style-type: none;
+}
+
+.little_dots li::before {
+    content: "\2022";
+    color: #ea580c;
+    font-weight: bold;
+    margin-right: 8px;
+}
