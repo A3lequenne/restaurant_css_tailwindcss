@@ -23,3 +23,17 @@
     font-weight: bold;
     margin-right: 8px;
 }
+
+.resize_gallery {
+    width: 25%;
+}
+
+.about_us_main {
+    padding-top: 5.5rem;
+}
+
+@media (max-width: 767px){
+    #carte_resto {
+        width: 100%;
+    }
+}
